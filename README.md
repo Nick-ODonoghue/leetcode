@@ -27,6 +27,6 @@ A repo to keep track of my leetcode challenge answers. I will be answering all c
 
 ## Acknowledgments
 
-Will be added as I progress...
+Will be adding as I progress...
 
 [Le Wagon](https://www.lewagon.com/) & all the teachers, TAs and classmates from <em>1122</em>
