@@ -6,7 +6,7 @@
 
 ## Overview
 
-A repo to keep track of my leetcode challenge answers. I will be answering all challenges in JavaScript, Python and Ruby
+A repo to keep track of my leetcode challenge answers. I will be answering all challenges in JavaScript and Python
 
 <br>
 
