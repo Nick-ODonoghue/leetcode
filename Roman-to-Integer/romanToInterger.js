@@ -49,6 +49,7 @@ const romanToInt = function (s) {
 
       // If true, Roman numeral logic is to subtract the current symbols value from the next symbols value
       total += next - current
+
       // When this is true the Roman numeral number is not a single character but in fact both the current and next character
       // I(current)V(next) is not a 1 and a 5 but infact 4
       // Given this we need to increment i by 1 so as to skip checking the V(next) in the next loop
